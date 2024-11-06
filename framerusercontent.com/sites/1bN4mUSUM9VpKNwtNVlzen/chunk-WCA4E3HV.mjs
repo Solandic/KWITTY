@@ -1,2 +1,2 @@
-function t(a,e){return{description:"just a lil PWURR doing PWURR things... \u{1F431}",favicon:"https://framerusercontent.com/assets/o5YlL3Jj9OJxnEWQpAEWrXB8F8I.png",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/0TpSCyTUjx3nOfPQ6vTXZnbi1k.jpg",title:"$PWURR"}}export{t as a};
+function t(a,e){return{description:"just a lil MWOG doing MWOG things... \u{1F431}",favicon:"https://framerusercontent.com/assets/o5YlL3Jj9OJxnEWQpAEWrXB8F8I.png",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/0TpSCyTUjx3nOfPQ6vTXZnbi1k.jpg",title:"$MWOG"}}export{t as a};
 //# sourceMappingURL=chunk-WCA4E3HV.mjs.map
